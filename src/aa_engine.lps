@@ -9,7 +9,7 @@
         <Filename Value="aa_engine.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <CursorPos X="19" Y="16"/>
+        <CursorPos X="28" Y="13"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>
@@ -22,7 +22,7 @@
       </Unit>
       <Unit>
         <Filename Value="Assemblerunit.pas"/>
-        <EditorIndex Value="1"/>
+        <EditorIndex Value="2"/>
         <TopLine Value="8685"/>
         <CursorPos X="48" Y="8705"/>
         <UsageCount Value="10"/>
@@ -30,16 +30,24 @@
       </Unit>
       <Unit>
         <Filename Value="ProcessHandlerUnit.pas"/>
-        <EditorIndex Value="2"/>
+        <EditorIndex Value="3"/>
         <CursorPos X="25" Y="14"/>
         <UsageCount Value="10"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="NewKernelHandler.pas"/>
-        <EditorIndex Value="3"/>
+        <EditorIndex Value="4"/>
         <CursorPos X="6" Y="11"/>
         <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="export_func.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="13" Y="12"/>
+        <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
