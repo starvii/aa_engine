@@ -8,10 +8,17 @@
       <Unit>
         <Filename Value="aa_engine.lpr"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="-1"/>
         <CursorPos X="28" Y="13"/>
         <UsageCount Value="20"/>
-        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="export_func.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="13" Y="12"/>
+        <UsageCount Value="20"/>
       </Unit>
       <Unit>
         <Filename Value="autoassembler.pas"/>
@@ -22,57 +29,28 @@
       </Unit>
       <Unit>
         <Filename Value="Assemblerunit.pas"/>
-        <EditorIndex Value="2"/>
+        <EditorIndex Value="-1"/>
         <TopLine Value="8685"/>
         <CursorPos X="48" Y="8705"/>
         <UsageCount Value="10"/>
-        <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="ProcessHandlerUnit.pas"/>
-        <EditorIndex Value="3"/>
+        <EditorIndex Value="-1"/>
         <CursorPos X="25" Y="14"/>
         <UsageCount Value="10"/>
-        <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="NewKernelHandler.pas"/>
-        <EditorIndex Value="4"/>
+        <EditorIndex Value="-1"/>
         <CursorPos X="6" Y="11"/>
         <UsageCount Value="10"/>
-        <Loaded Value="True"/>
-      </Unit>
-      <Unit>
-        <Filename Value="export_func.pas"/>
-        <IsPartOfProject Value="True"/>
-        <EditorIndex Value="1"/>
-        <CursorPos X="13" Y="12"/>
-        <UsageCount Value="20"/>
-        <Loaded Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="4">
-      <Position>
-        <Filename Value="aa_engine.lpr"/>
-        <Caret Line="9" Column="25"/>
-      </Position>
-      <Position>
-        <Filename Value="aa_engine.lpr"/>
-        <Caret Line="14" Column="57"/>
-      </Position>
-      <Position>
-        <Filename Value="Assemblerunit.pas"/>
-        <Caret Line="18" Column="11"/>
-      </Position>
-      <Position>
-        <Filename Value="ProcessHandlerUnit.pas"/>
-        <Caret Line="21" Column="19" TopLine="3"/>
-      </Position>
-      <Position>
-        <Filename Value="NewKernelHandler.pas"/>
-        <Caret Line="11" Column="28"/>
-      </Position>
-    </JumpHistory>
+    <General>
+      <ActiveWindowIndexAtStart Value="-1"/>
+    </General>
+    <JumpHistory HistoryIndex="-1"/>
     <RunParams>
       <FormatVersion Value="2"/>
       <Modes ActiveMode=""/>
