@@ -5,13 +5,23 @@ unit export_func;
 interface
 
 uses
-  Classes, SysUtils;
+  Classes, SysUtils, Windows;
 
 implementation
 
-function Min(X, Y: Integer): Integer; stdcall;
+function AutoAssemble(processId: DWORD, aaScript: LPCTSTR, command: LONG): BOOL; stdcall;
 begin
-  if X < Y then Min := X else Min := Y;
+
+end;
+
+function GetAddress(processId: DWORD, addressLine: LPCTSTR): DWORD; stdcall;
+begin
+
+end;
+
+function Version(): LPCTSTR; stdcall;
+begin
+  Version := '0.11 copyright by starvii.';
 end;
 
 end.

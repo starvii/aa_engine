@@ -8,49 +8,66 @@
       <Unit>
         <Filename Value="aa_engine.lpr"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="-1"/>
-        <CursorPos X="28" Y="13"/>
-        <UsageCount Value="20"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="6" Y="18"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="export_func.pas"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
-        <EditorIndex Value="-1"/>
-        <CursorPos X="13" Y="12"/>
-        <UsageCount Value="20"/>
+        <CursorPos X="17" Y="22"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="autoassembler.pas"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="6"/>
         <CursorPos X="18" Y="23"/>
-        <UsageCount Value="10"/>
+        <UsageCount Value="8"/>
       </Unit>
       <Unit>
         <Filename Value="Assemblerunit.pas"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="8685"/>
         <CursorPos X="48" Y="8705"/>
-        <UsageCount Value="10"/>
+        <UsageCount Value="8"/>
       </Unit>
       <Unit>
         <Filename Value="ProcessHandlerUnit.pas"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="25" Y="14"/>
-        <UsageCount Value="10"/>
+        <UsageCount Value="8"/>
       </Unit>
       <Unit>
         <Filename Value="NewKernelHandler.pas"/>
-        <EditorIndex Value="-1"/>
-        <CursorPos X="6" Y="11"/>
-        <UsageCount Value="10"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="211"/>
+        <CursorPos X="28" Y="11"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\dev\lazarus\fpc\3.2.2\source\rtl\win\wininc\base.inc"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="44"/>
+        <CursorPos X="10" Y="67"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
       </Unit>
     </Units>
-    <General>
-      <ActiveWindowIndexAtStart Value="-1"/>
-    </General>
-    <JumpHistory HistoryIndex="-1"/>
+    <JumpHistory HistoryIndex="1">
+      <Position>
+        <Filename Value="export_func.pas"/>
+        <Caret Line="19" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="aa_engine.lpr"/>
+        <Caret Line="18" Column="6"/>
+      </Position>
+    </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>
       <Modes ActiveMode=""/>
